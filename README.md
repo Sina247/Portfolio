@@ -1,54 +1,13 @@
-# Personal Portfolio
+# 👤 Personal Portfolio
 
-This repository contains a beautiful, responsive personal portfolio built using **React**, **Vite**, and **TailwindCSS**. The project showcases modern web development techniques including smooth animations, responsive layouts, and interactive UI components.
+This is my personal portfolio, built with React, Next.js, and Tailwind CSS. It showcases my skills, projects, and experience as a Front-End Developer. The website is fully responsive, performance-optimized, and features a clean UI/UX. Check out my work, and feel free to explore my GitHub repositories!
 
-## Features
+---
 
-- **Modern Design:** Clean, SaaS-inspired design with a glass-effect navbar and sleek animations.
-- **Responsive Layout:** Fully responsive across desktop, tablet, and mobile devices.
-- **Interactive Components:** Animated sections and a mobile-friendly hamburger menu with smooth transitions.
-- **Optimized Performance:** Fast development build using Vite with TailwindCSS for efficient styling.
-
-## Technologies
-
-- **React:** Component-based UI library.
-- **Vite:** Fast and lean development build tool.
-- **TailwindCSS:** Utility-first CSS framework.
-- **JavaScript (ES6+):** Modern JavaScript features and best practices.
-
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/your-portfolio.git
-   cd your-portfolio
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server:**
-
-   ```bash
-   npm run dev
-   ```
-
-   The application should now be running at [http://localhost:5173](http://localhost:5173).
-
-## Build
-
-To create a production build, run:
-
-```bash
-npm run build
-```
-
-Then, you can preview the production build with:
-
-```bash
-npm run preview
-```
+## 🚀 Features  
+- 💻 **Showcases skills and projects** : Clear presentation of my frontend development expertise.  
+- 📱💻 **Fully responsive design** : Works smoothly on all devices, from mobile to desktop.  
+- ⚡ **Performance optimized** : Fast loading times and smooth interactions.  
+- 🎨 **Clean UI/UX** : Modern, minimalistic design focused on usability.  
+- 🌐 **Built with React, Next.js, and Tailwind CSS** : Leveraging modern web technologies.  
+- 📄 **Includes HTML, CSS, JavaScript**: Also uses semantic markup and best coding practices.
