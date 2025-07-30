@@ -1,6 +1,6 @@
 # 👤 Portfolio
 
-This is my personal portfolio, built with React, Next.js and Tailwind CSS. It showcases my skills, projects and experience as a Front End Developer. The website is fully responsive, performance optimized  and features a clean UI/UX. Check out my work and feel free to explore my GitHub repositories.
+This is my personal portfolio, built with React, Next.js and Tailwind CSS. It showcases my skills, projects and experience as a Front End Developer. The website is fully responsive, performance optimized  and features a clean UI/UX.
 
 ---
 
